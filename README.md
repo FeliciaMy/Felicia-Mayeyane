@@ -25,13 +25,7 @@ These days, my main focus is **test automation** and **ensuring product reliabil
 **Mobile:** Android Studio, React Native
 **Databases:** MySQL, MongoDB  
 **Version Control & CI/CD:** Git, GitHub Actions, Jenkins  
-**Other:** Agile methodologies, Scrum Framework, Jira, Test case management tools  
-
-
-### 🌱  What I’m Currently Exploring
-- Strengthening my **API and mobile test automation** skills  
-- Learning more about **CI/CD integration for automated tests**  
-- Expanding into **performance and security testing** principles  
+**Other:** Agile methodologies, Scrum Framework, Jira & Test case management tools  
 
 
 

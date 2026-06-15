@@ -1,5 +1,5 @@
 <h1 align="center">Hello👋  I'm Felicia. </h1>
-<h3 align="center">   Software Developer in Test | DevOps | Quality Advocate. </h3>
+<h3 align="center">   Software Quality Assurance Analyst | DevOps | Quality Advocate. </h3>
 
 
 ### 👩‍💻 About Me  
